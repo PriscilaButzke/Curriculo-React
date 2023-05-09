@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(236, 206, 108);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+}
+
+header .title {
+    padding: 10px;
+}
+
+header .title h1 {
+    text-align: center;
+    margin-left: 70px;
+}
+
+.links {
+    position: relative;
+    left: 450px;
+}
